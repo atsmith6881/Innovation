@@ -1,3 +1,5 @@
 /*
-The first tutorial "OOP: Part 1" it continues talking about methods and how to use gets and sets. It talks about
+The first tutorial "OOP: Part 1" it continues talking about methods and how to use gets and sets. It talks about calling the methods and returning a value. All of these concepts are a review as of now, and help greatly. Other basics this tutorial reviews are classes and objects, aka some of the most important concepts in programming. From objects the tutorial jumps to inheritance, which is also extremely important when making two classes that are similiar, or even a subclass of the other. The tutorial uses this syntax to create user capable applications.
+
+The second tutorial "OOP: Part 2" gets more into the application of the syntax as it uses boolean and conditional code to output the responses that are wanted. The tutorial goes through an order and how to use a check box, etc. to create the proper order summary. It extends into specific conditional statements like if-else and operators, such as ==, != > >=, etc. The tutorial finishes up with style and themes, and finally a reflection on the progress.
 */
