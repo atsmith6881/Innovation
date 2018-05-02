@@ -1,10 +1,8 @@
 /*
-The first tutorial "Building Layouts: Part 1" was an introductory tutorial to the basics of java for an android app.
-They introduce vocabulary like Camel Case, User Interface, and layout. As the tutorial progresses it introduces more vocabulary,
-and what they mean. For example, XML stands for "Extensible Markup Language," and is the notation for writing information in the
-form of a hieracrchy. In the XML syntax there is XML elements, tags, self-closing tags, attributes, and syntax. The tutorial
-also says how it's okay to not memorize everything and look up information that is unknown. The video for text-view talks about
-Android studio, and the different resolutions, medium, high, and extra-high, and how they're density-independent pixels (better
-screens will have more pixels). This trails into text-size, text-color, and imageView. It finishes with documentation, which
-helps explain the purpose of the app, the user instructions, or where the app is capable of running.
+  The first tutorial "Building Layouts: Part 1" was an introductory tutorial to the basics of java for an android app.
+They introduce vocabulary like Camel Case, User Interface, and layout. As the tutorial progresses it introduces more vocabulary, and what they mean. For example, XML stands for "Extensible Markup Language," and is the notation for writing information in the form of a hieracrchy. In the XML syntax there is XML elements, tags, self-closing tags, attributes, and syntax. The tutorial also says how it's okay to not memorize everything and look up information that is unknown. The video for text-view talks about Android studio, and the different resolutions, medium, high, and extra-high, and how they're density-independent pixels (better screens will have more pixels). This trails into text-size, text-color, and imageView. It finishes with documentation, which helps explain the purpose of the app, the user instructions, or where the app is capable of running.
+
+  The second tutorial "Building Layouts: Part 2" talks about ViewGroups and the various layouts, including LinearLayout and Relative layout. They explain the layouts visually based on people like "Ray Relative Layout or Tom TextView." They show the difference between different syntax like dp or wrap_content. It talks about a vertical linear layout vs a horizontal linear layout. Each height is said to have equal weight if the heights are equal; same goes for the width and weight. The padding and margins concept is actually a review, and refers to how much space you want between the item or words.
+  
+The third tutorial "Practice Set: Building Layouts" was more hands-on by doing a step-by-step guide for how to install and run the Java IDE. It shows a brief exploration of Android Studios, and goes through the style tips.
 */
